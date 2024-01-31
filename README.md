@@ -1,16 +1,12 @@
 
 
 
-
-
-
-
 - 👋 Hi, I’m Muhammad Ikram
 - 👀 I’m a Computer Science Student currently Enrolled in Sukkur IBA University.
 
 
-- 🌱 ** What I do:** 
-====================================================================================================================================
+- 🌱 What I do : 
+==============================================================================
 
 I craft pixel-perfect, user-friendly interfaces that bring ideas to life.
 I leverage modern frameworks like Reactjs to build responsive, performant web applications.
@@ -18,19 +14,19 @@ I collaborate seamlessly with designers and back-end developers to ensure a cohe
 I'm passionate about staying ahead of the curve, actively learning new technologies and techniques.
 
 
-** Skills:** ⚙
-====================================================================================================================================
+- ⚙ Skills:
 
-Front-End ======> [ HTML , CSS , BootStrap , Reactjs , Ant Design ]
-  Frameworks ===> [ Tailwind CSS ]
-  UI Libraries => [ Tailwind UI , Headless UI , Chakra UI ]
-  Ux/Ui Design => [Adobe XD , Figma ]
-=======================================================================================
+    ==>Front-End Development
+
+      [ HTML , CSS , BootStrap , Reactjs , Ant Design ]
+      Frameworks ===> [ Tailwind CSS ]
+      UI Libraries => [ Tailwind UI , Headless UI , Chakra UI ]
+      Ux/Ui Design => [Adobe XD , Figma ]
 
 
-Other Languages: [Python Basic , Javascript , C++ , Java ]
-Tools: [ Git , GitHub , command line , VS code , Ananconda , VM Ware using Ubuntu ]
-====================================================================================================================================
+      Other Languages: [Python Basic , Javascript , C++ , Java ]
+      Tools: [ Git , GitHub , command line , VS code , Ananconda , VM Ware using Ubuntu ]
+
 
 -  🔬 Certifications :
   Coursera Cerifications:
@@ -61,10 +57,9 @@ Tools: [ Git , GitHub , command line , VS code , Ananconda , VM Ware using Ubunt
    
 - 📫 How to reach me ...
         
-LinkedIn -- 
-        https://www.linkedin.com/in/muhammad-ikram-31b1ab281/
-Twitter handle -- 
-        
+==> LinkedIn : 
+    
+    https://www.linkedin.com/in/muhammad-ikram-31b1ab281/
 
 
 <!---
